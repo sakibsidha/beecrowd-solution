@@ -21,7 +21,6 @@ int main(){
             else{
                 cout<<"N"<<endl;
             }
-
         }
     }
 
